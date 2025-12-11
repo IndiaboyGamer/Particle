@@ -14,7 +14,8 @@ function changeGift() {
     11: { emoji: "🌙", text: "moonlit nights to dream of you" },
     12: { emoji: "❤️", text: "reasons why I adore you" },
     13: { emoji: "💋", text: "My choti is the best" },
-    14: { emoji: "💝", text: "Love you Saniya ki mummy" }
+    14: { emoji: "💝", text: "Love you Saniya ki mummy" },
+    13: { emoji: "📚", text: "padhai karo padhai....." }
     
   };
 
