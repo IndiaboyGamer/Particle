@@ -12,7 +12,9 @@ function changeGift() {
     9: { emoji: "💌", text: "heartfelt letters" },
     10: { emoji: "🎁", text: "thoughtful gifts" },
     11: { emoji: "🌙", text: "moonlit nights to dream of you" },
-    12: { emoji: "❤️", text: "reasons why I adore you" }
+    12: { emoji: "❤️", text: "reasons why I adore you" },
+    13: { emoji: "💋", text: "My choti is the best" }
+    
   };
 
   const days = Object.keys(gifts);
