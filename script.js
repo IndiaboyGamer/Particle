@@ -22,7 +22,15 @@ function changeGift() {
     19: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
     20: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
     21: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
-    22: { emoji: "🙇‍♂️🙏", text: "Sorry...." }
+    22: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    23: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    24: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    25: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    26: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    27: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    28: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    29: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    30: { emoji: "🙇‍♂️🙏", text: "Sorry...." }
     
   };
 
