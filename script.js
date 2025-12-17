@@ -15,7 +15,14 @@ function changeGift() {
     12: { emoji: "❤️", text: "reasons why I adore you" },
     13: { emoji: "💋", text: "My choti is the best" },
     14: { emoji: "💝", text: "Love you Saniya ki mummy" },
-    13: { emoji: "📚", text: "padhai karo padhai....." }
+    15: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    16: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    17: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    18: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    19: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    20: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    21: { emoji: "🙇‍♂️🙏", text: "Sorry...." },
+    22: { emoji: "🙇‍♂️🙏", text: "Sorry...." }
     
   };
 
